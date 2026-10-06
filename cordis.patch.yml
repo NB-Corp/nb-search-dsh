@@ -1,0 +1,4 @@
+- insert:
+    - id: nb-search
+      name: nb-search-dsh
+      config: {}

@@ -1,0 +1,9 @@
+node_modules/
+.tmp/
+.test-state/
+coverage/
+lib/types/**/*.js
+*.tgz
+.env
+.env.*
+!.env.example
